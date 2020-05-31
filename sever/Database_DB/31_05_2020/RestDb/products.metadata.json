@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"RestDb.products"}],"uuid":"bb02f3ab6f944febaa06059ce2be54dd"}
